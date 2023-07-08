@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">こんにちは、みんな ！ I'm Mei !  <img src="img/cat.gif" width="40px" height="40px"></h1>
 
-<!--
-**weebMei/weebMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+```zsh
+> start
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+My Profile | 私のプロフィール 「タク」
+-------------------------------
+Username: Mei or nao.
+WhoamI: weeb, musician & student.
+OS: Windows & Arch.
+Shell: zsh
+Discord: weebMei.
+FavouriteAnime: 
+Loves: To play video games, to read my manga.
+Pronouns: He/Him.
+Location: Gliese 581c.
+Languages: JS, TSX, Python, Java, C#.
+Hobbye: Code.
+Learning: C#, Kotlin.
+FavouriteSong: My sweet Maiden by Regina Mia.
+FavouriteEquation: Schrodinger's equation. 
+Hobbies: Gaming, Reading manga,Coding.
+My Favourite singers (アイドル):  Ado and  Twice.
+```
