@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、みんな ！ I'm Mei !  <img src="img/cat.gif" width="40px" height="40px"></h1>
+<h1 align="center">こんにちは、みんな ！ I'm (maybe) Mei !  <img src="img/cat.gif" width="40px" height="40px"></h1>
 
 <br>
 
@@ -9,7 +9,7 @@
 ```csharp
 My Profile | 私のプロフィール 「タク」
 -------------------------------
-Username: Mei or nao.
+Username: Mei.
 WhoamI: weeb, musician & student.
 OS: Windows & Arch.
 Shell: zsh
